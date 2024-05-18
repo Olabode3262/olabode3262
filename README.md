@@ -96,15 +96,15 @@ Lagos Campus; Squad 018 Class 01
 ### Certifications                                                              
                                                                                       
 **IBM**                                                                                      
-Data Analytics (https://www.coursera.org/account/accomplishments/certificate/EKTFGSPNLAQL) 
+[Data Analytics](https://www.coursera.org/account/accomplishments/certificate/EKTFGSPNLAQL) 
 2022 - 2023
 
 **Google**  
-Data Analysis with R  (https://www.coursera.org/account/accomplishments/certificate/Z547RZX435N7)
+[Data Analysis with R](https://www.coursera.org/account/accomplishments/certificate/Z547RZX435N7)
 Jul 2023 - Sep 2023
 
 **HiiT**  
-Structured Query Language  (https://hiit.ng/certificates/structured-query-languagesql/?course_id=215047&cert-nonce=7f1249259d)
+[Structured Query Language](https://hiit.ng/certificates/structured-query-languagesql/?course_id=215047&cert-nonce=7f1249259d)
 Sep 2022 - Nov 2023
 
 
