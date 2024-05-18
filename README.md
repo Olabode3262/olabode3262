@@ -1,4 +1,3 @@
-# OLABODE SHONIBARE
 # Sales Analyst, Loss Prevention Specialist
 - Intermediate level of dedicated experience in the dynamic retail industry.
 - Proficient in harnessing data to drive sales strategies
