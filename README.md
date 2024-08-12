@@ -1,4 +1,5 @@
 # Sales Analyst and Loss Prevention Portfolio
+[View Resume here](https://docs.google.com/document/d/1aVGz0nzGlP-s-RM5s2rFbfPEft5o9phJ/edit?usp=sharing&ouid=103520921616473987933&rtpof=true&sd=true) 
 - Intermediate level of dedicated experience in the dynamic retail industry.
 - Proficient in harnessing data to drive sales strategies
 - Mitigate losses and solving technical difficulties.
