@@ -9,7 +9,7 @@
 
 ![food stock chart](https://github.com/user-attachments/assets/d108b56d-1a26-4738-8798-d948c720c6a8)
 
-- [Uncovering the Reality of Food Supply Variations in Nigeria: A Data Analysis Perspective](https://medium.com/@olabode.shonibare/data-analysis-story-on-food-supply-and-variation-in-nigeria-68557c110f70): The project aims to analyze the supply of material and food to popular African countries.
+- [Uncovering the Reality of Food Supply Variations in Nigeria: A Data Analysis Perspective](https://medium.com/@olabode.shonibare/data-analysis-story-on-food-supply-and-variation-in-nigeria-68557c110f70): The project aims to analyze the supply of material and food to popular African countries especially Nigeria.
 
 
 
