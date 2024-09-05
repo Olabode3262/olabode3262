@@ -13,10 +13,6 @@ author:
 
 # Theme Settings
 theme: jekyll-minima # The theme for your Jekyll site
-plugins:
-  - jekyll-feed # Plugin for RSS feed generation
-  - jekyll-seo-tag # Plugin for SEO meta tags
-  - jekyll-sitemap # Plugin to generate sitemap.xml
 
 # Social Links (used by some themes)
 social_links:
