@@ -1,35 +1,5 @@
-# Basic Settings
 title: "Olabode Shonibare" # The title of your site
 logo: "https://media.licdn.com/dms/image/D4D35AQGQUczKM_wA_Q/profile-framedphoto-shrink_200_200/0/1701705313883?e=1716663600&v=beta&t=2ZthwE_xh8yQ-1mofpTf-BcOMi_hrE69ovZTtM5d6nQ" # Logo image link
 subscription: "text below image" # Text to display below the logo
 description: "A brief description of the site or portfolio" # Site description
-baseurl: "" # Leave empty for GitHub Pages (since your site is hosted at the root)
-url: "https://olabode3262.github.io" # The full URL of your site
-
-# Author Information
-author:
-  name: "Olabode Shonibare"
-  email: "olabode.shonibare@gmail.com"
-
-# Theme Settings
 theme: jekyll-theme-minima # Use 'minima', as it's the default theme and widely supported on GitHub Pages
-
-# Social Links (used by some themes)
-social_links:
-  twitter: "https://twitter.com/slowburne"
-  github: "https://github.com/olabode3262"
-
-
-# Defaults for posts or pages
-defaults:
-  - scope:
-      path: "" # Empty string means this applies to all files
-    values:
-      layout: "post"
-      author: "Olabode Shonibare"
-
-# Build Settings
-markdown: kramdown # Markdown engine
-permalink: /:categories/:year/:month/:day/:title/ # URL structure for blog posts
-
-
