@@ -1,5 +1,5 @@
-title: "Olabode Shonibare" # The title of your site
-logo: "https://media.licdn.com/dms/image/D4D35AQGQUczKM_wA_Q/profile-framedphoto-shrink_200_200/0/1701705313883?e=1716663600&v=beta&t=2ZthwE_xh8yQ-1mofpTf-BcOMi_hrE69ovZTtM5d6nQ" # Logo image link
-subscription: "text below image" # Text to display below the logo
-description: "A brief description of the site or portfolio" # Site description
-theme: jekyll-theme-minima # Use 'minima', as it's the default theme and widely supported on GitHub Pages
+title: "Olabode Shonibare" 
+#logo: "https://media.licdn.com/dms/image/D4D35AQGQUczKM_wA_Q/profile-framedphoto-shrink_200_200/0/1701705313883?e=1716663600&v=beta&t=2ZthwE_xh8yQ-1mofpTf-BcOMi_hrE69ovZTtM5d6nQ" # Logo image link
+#subscription: "text below image" # Text to display below the logo
+#description: "A brief description of the site or portfolio" # Site description
+theme: minima 
