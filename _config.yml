@@ -12,7 +12,7 @@ author:
   email: "olabode.shonibare@gmail.com"
 
 # Theme Settings
-theme: minima # The theme for your Jekyll site
+theme: jekyll-minima # The theme for your Jekyll site
 plugins:
   - jekyll-feed # Plugin for RSS feed generation
   - jekyll-seo-tag # Plugin for SEO meta tags
