@@ -1,9 +1,20 @@
 # Inventory Analyst, Data Scientist and Retail Operations
+
+I am a highly proficient individual with passion for technology and dedicated to solving complex problem. 
+
+## Objective
+
+My journey into statistical technology has led me to develop a passion for data analytics and data science which i am willing to contribute to organizations, specifically in the retail industry and education sector as a level 3 data analyst. 
+
+
 - Significant experience in the dynamic retail industry.
 - Proficient in harnessing data to drive sales strategies
 - Mitigate losses and solving technical difficulties.
 
-[View Resume here](https://docs.google.com/document/d/1aVGz0nzGlP-s-RM5s2rFbfPEft5o9phJ/edit?usp=sharing&ouid=103520921616473987933&rtpof=true&sd=true) 
+<a href="https://linkedin.com/in/olabode-shonibare"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoWidth=30" /></a>
+ 
+<a href="https://docs.google.com/document/d/1aVGz0nzGlP-s-RM5s2rFbfPEft5o9phJ/edit?usp=sharing&ouid=103520921616473987933&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-green?logo=Resume&logoWidth=30" /></a>
+ 
 
 ### Projects
 
