@@ -1,5 +1,51 @@
+# Basic Settings
 title: Olabode Shonibare
-logo: https://media.licdn.com/dms/image/D4D35AQGQUczKM_wA_Q/profile-framedphoto-shrink_200_200/0/1701705313883?e=1716663600&v=beta&t=2ZthwE_xh8yQ-1mofpTf-BcOMi_hrE69ovZTtM5d6nQ
+logo: "https://media.licdn.com/dms/image/D4D35AQGQUczKM_wA_Q/profile-framedphoto-shrink_200_200/0/1701705313883?e=1716663600&v=beta&t=2ZthwE_xh8yQ-1mofpTf-BcOMi_hrE69ovZTtM5d6nQ"
 subscription: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+description: 
+baseurl: "https://bit.ly/3Xp9AAt" # The subpath of your site (e.g., /my-site)
+url: "https://olabode3262.github.io" # Your base URL
+
+# Author Information
+author:
+  name: "Olabode Shonibare"
+  email: "olabode.shonibare@gmail.com"
+
+# Theme Settings
+theme: minima # The theme for your Jekyll site
+plugins:
+  - jekyll-feed # Plugin for RSS feed generation
+  - jekyll-seo-tag # Plugin for SEO meta tags
+  - jekyll-sitemap # Plugin to generate sitemap.xml
+
+# Build Settings
+markdown: kramdown # The markdown engine to use (default is kramdown)
+highlighter: rouge # The syntax highlighter for code blocks
+permalink: /:categories/:year/:month/:day/:title/ # The URL structure for posts
+paginate: 5 # Number of posts per page
+
+# Social Links (used by some themes)
+social_links:
+  twitter: "https://twitter.com/slowburne"
+  github: "https://github.com/olabode3262"
+
+# Collections (for organizing content)
+collections:
+  docs:
+    output: true
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - README.md
+
+# Defaults for posts or pages
+defaults:
+  - scope:
+      path: "" # empty string means all files
+    values:
+      layout: "post"
+      author: "Olabode Shonibare"
+
