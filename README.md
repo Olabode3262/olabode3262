@@ -1,4 +1,4 @@
-# Data Scientist, Data Analyst and Loss Prevention Specialist
+# Inventory Analyst, Data Scientist and Retail Operations
 - Significant experience in the dynamic retail industry.
 - Proficient in harnessing data to drive sales strategies
 - Mitigate losses and solving technical difficulties.
