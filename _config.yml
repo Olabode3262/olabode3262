@@ -18,28 +18,10 @@ plugins:
   - jekyll-seo-tag # Plugin for SEO meta tags
   - jekyll-sitemap # Plugin to generate sitemap.xml
 
-# Build Settings
-markdown: kramdown # The markdown engine to use (default is kramdown)
-highlighter: rouge # The syntax highlighter for code blocks
-permalink: /:categories/:year/:month/:day/:title/ # The URL structure for posts
-paginate: 5 # Number of posts per page
-
 # Social Links (used by some themes)
 social_links:
   twitter: "https://twitter.com/slowburne"
   github: "https://github.com/olabode3262"
-
-# Collections (for organizing content)
-collections:
-  docs:
-    output: true
-
-# Exclude files from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - README.md
 
 # Defaults for posts or pages
 defaults:
