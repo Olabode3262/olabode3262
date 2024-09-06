@@ -1,15 +1,13 @@
-# Inventory Analyst, Data Scientist and Retail Operations
+# Data Analyst, Data Scientist and Retail Operations
 
-I am a highly proficient individual with passion for technology and dedicated to solving complex problem. 
+## Introduction
 
-## Objective
+A skilled Data Entry Specialist, Data Analyst, and Data Scientist with a strong background in retail operations. Proficient in tools like SQL, Excel, Power BI, and R, specializes in transforming data into actionable insights to drive decision-making.
 
-My journey into statistical technology has led me to develop a passion for data analytics and data science which i am willing to contribute to organizations, specifically in the retail industry and education sector as a level 3 data analyst. 
-
-
-- Significant experience in the dynamic retail industry.
+## 
+- Significant experience in the data bending.
 - Proficient in harnessing data to drive sales strategies
-- Mitigate losses and solving technical difficulties.
+- Proven track records in organization of administrative activities and virtual assistance.
 
 <a href="https://linkedin.com/in/olabode-shonibare"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoWidth=30" /></a>
  
