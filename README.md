@@ -1,4 +1,4 @@
-# Data Analyst, Data Scientist and Retail Operations
+# Data Analyst, Virtual Assistant and Retail Operations
 
 ## Introduction
 
