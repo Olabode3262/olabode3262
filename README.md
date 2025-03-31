@@ -22,8 +22,8 @@ A skilled Data Entry Specialist, Data Analyst, and Data Scientist with a strong 
 
 
 
-![Descriptive Data Analysis for a bookstore](https://github.com/user-attachments/assets/c1c6a4f9-9faf-4585-bf6a-47718de85e36)
-- [Sales Analysis for best selling books]([http://projectone.com](https://1drv.ms/x/c/04eb4061a06609d6/EdYJZqBhQOsggARnAgAAAAABr9Zlf5sDkVglBjIwhT0pRQ?e=ulB8Ed)): This book sale analysis was made for DAME books authored by Aleke Ezekiel. It was done with SQL and Excel for analysis and visualization, it is aimed to project the trends and visuals of tha sales of the book since it was re;eased. .
+![Diagnostic Data Analysis On Employee Shipment Records](https://github.com/user-attachments/assets/c1c6a4f9-9faf-4585-bf6a-47718de85e36)
+- [Employee Peformance on sales and shipment of products in 2023]([http://projectone.com](https://1drv.ms/u/c/ec8c3a645a8d88d4/EdvGslz0MJlJorTU1hzq87UBuZNGuopjUzwX4IRQY8SoGQ?e=G7rhmF)): This is a freelance powerbi priject on an ameriacan shipping company. The analysis is based on the employees' shipment for the year of 2023. 
 
 
 
